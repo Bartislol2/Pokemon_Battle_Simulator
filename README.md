@@ -5,6 +5,6 @@ This project is a Pokemon battle simulator. The player creates his character and
 # Notice
 I am not the owner of the Pokemon brand, and all copyright rights belong to the creators.
 # Used technologies
--pygame
--PokeApi
--JSON 
+- pygame
+- PokeApi
+- JSON 
